@@ -1,0 +1,10 @@
+C:\Users\s.valenzuela\source\repos\Cross.Proxy\bin\Debug\netcoreapp3.1\Cross.Proxy.deps.json
+C:\Users\s.valenzuela\source\repos\Cross.Proxy\bin\Debug\netcoreapp3.1\Cross.Proxy.dll
+C:\Users\s.valenzuela\source\repos\Cross.Proxy\bin\Debug\netcoreapp3.1\Cross.Proxy.pdb
+C:\Users\s.valenzuela\source\repos\Cross.Proxy\obj\Debug\netcoreapp3.1\Cross.Proxy.csproj.AssemblyReference.cache
+C:\Users\s.valenzuela\source\repos\Cross.Proxy\obj\Debug\netcoreapp3.1\Cross.Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.valenzuela\source\repos\Cross.Proxy\obj\Debug\netcoreapp3.1\Cross.Proxy.AssemblyInfoInputs.cache
+C:\Users\s.valenzuela\source\repos\Cross.Proxy\obj\Debug\netcoreapp3.1\Cross.Proxy.AssemblyInfo.cs
+C:\Users\s.valenzuela\source\repos\Cross.Proxy\obj\Debug\netcoreapp3.1\Cross.Proxy.csproj.CoreCompileInputs.cache
+C:\Users\s.valenzuela\source\repos\Cross.Proxy\obj\Debug\netcoreapp3.1\Cross.Proxy.dll
+C:\Users\s.valenzuela\source\repos\Cross.Proxy\obj\Debug\netcoreapp3.1\Cross.Proxy.pdb

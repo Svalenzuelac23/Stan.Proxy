@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ylynLZqcCfQ1qFYPpoRhLxKof/zQnXUaJS1rHjyjUI+cN+bxBM7cHLSItLmRYcHRM4d9bOq7AOorwnqK7YjzQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s.valenzuela\\source\\repos\\Cross.Proxy\\Cross.Proxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s.valenzuela\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\s.valenzuela\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\s.valenzuela\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.0\\microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
+    "C:\\Users\\s.valenzuela\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.10\\microsoft.extensions.dependencyinjection.3.1.10.nupkg.sha512",
+    "C:\\Users\\s.valenzuela\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.10\\microsoft.extensions.dependencyinjection.abstractions.3.1.10.nupkg.sha512",
+    "C:\\Users\\s.valenzuela\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "C:\\Users\\s.valenzuela\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.0\\microsoft.extensions.options.configurationextensions.3.1.0.nupkg.sha512",
+    "C:\\Users\\s.valenzuela\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\s.valenzuela\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

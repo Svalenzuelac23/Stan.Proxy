@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Stan.Proxy</id>
+    <version>1.0.0</version>
+    <authors>Stanley Valenzuela</authors>
+    <icon>Icono.png</icon>
+    <description>Consumir API Rest</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\s.valenzuela\source\repos\Cross.Proxy\bin\Debug\netcoreapp3.1\Cross.Proxy.dll" target="lib\netcoreapp3.1\Cross.Proxy.dll" />
+    <file src="C:\Users\s.valenzuela\Desktop\Icono.png" target="Icono.png" />
+  </files>
+</package>
